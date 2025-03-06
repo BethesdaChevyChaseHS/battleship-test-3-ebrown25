@@ -4,7 +4,7 @@ public class Grid {
     private Location[][] grid;
     
     // Constants for grid dimensions.
-    
+     
     
     // Create a new Grid and initialize each Location.
     public Grid() {
